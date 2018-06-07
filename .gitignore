@@ -1,0 +1,41 @@
+# Java Ignore Directives
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+# OS X Ignore Directives
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# IntelliJ Ignore Directives
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse Ignore Directives
+
+.settings/
+.classpath
+.project
+
+# Maven Ignore Directives
+
+target
+dependency-reduced-pom.xml
