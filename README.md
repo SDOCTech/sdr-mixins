@@ -8,8 +8,14 @@ With the various interfaces users can control which methods are exposed by their
 
 # Installation
 
-Coming soon! As soon as I have all of the necessary pieces in place to deploy to maven central I'll update this.
+To use add the following dependency to your pom
 
+    <dependency>
+        <groupId>com.sdoctech</groupId>
+        <artifactId>sdr-mixins</artifactId>
+        <version>1.0</version>
+    </dependency>
+    
 # Usage
 
 Suppose that you only want to expose the ability to find an entity by its id and to test for existence of an entity by its id. You would just do the following:
