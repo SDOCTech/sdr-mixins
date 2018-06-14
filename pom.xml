@@ -29,9 +29,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/SDOCTech/sdr-mixins.git</connection>
+        <connection>scm:git:https://github.com/SDOCTech/sdr-mixins.git</connection>
         <developerConnection>scm:git:ssh://github.com:SDOCTech/sdr-mixins.git</developerConnection>
-        <url>https://github.com/SDOCTech/sdr-mixins/tree/master</url>
+        <url>https://github.com/SDOCTech/sdr-mixins</url>
     </scm>
 
     <distributionManagement>
